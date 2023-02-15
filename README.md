@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adil-olin
 - 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning c/c++/java/SDL2
+- 🌱 I’m currently learning c/c++/java/SDL2/python/dart
 - 💞️ I’m looking to collaborate on studying
 - 📫 How to reach me :
 mail : olinafseradil@gmail.com
